@@ -1,7 +1,7 @@
 # Mini Weather App
 
-![Password Generator Preview](./Assets/Screenshot%201.png)
-![Password Generator Preview](./Assets/Screenshot%202.png)
+![ Weather AppPreview](./assets/Screenshot (253).png)
+![Weather app Preview](./assets/Screenshot (252).png)
 
 
 This is my second weather app but this is a mini weather app project created for practice, using HTML, CSS, and JavaScript 
