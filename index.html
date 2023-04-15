@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weaher App With Javascript</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+
+            <form onsubmit="submit" class="search-box">
+                <input type="text"  placeholder="Search Location...." class="input-box">
+                <button class="fa-solid fa-magnifying-glass" id="searchBtn" type="submit"></button>
+            </form>
+
+            <div class="weather-body">
+                <img src="./assets/cloud.png" loading="lazy" class="weather-img">
+
+                <div class="weather-box">
+                    <p class="temperature">0 <sup>°C</sup></p>
+                    <p class="desc">Light Rain</p>
+                </div>
+
+                <div class="weather-details">
+                    
+                    <div class="humidity">
+                      <i class="fa-solid fa-droplet"></i>
+                      <span id="humidityData">0%</span>
+                      <p>Humidity</p>
+                    </div>
+                    
+                    
+                    <div class="wind">
+                        <i class="fa-solid fa-wind"></i>
+                        <span id="windSpeed">0km/H</span>
+                        <p>Wind Speed</p>
+                    </div>
+
+                </div>
+      
+            </div>
+
+            <div class="error">
+                <img src="./assets/404.png" loading="lazy">
+                <h3>Location not found....</h3>
+            </div>
+
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
