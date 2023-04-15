@@ -1,7 +1,6 @@
 # Mini Weather App
-
-![ Weather AppPreview](./assets/Screenshot (253).png)
-![Weather app Preview](./assets/Screenshot (252).png)
+<img src="./assets/Screenshot (252).png">
+<img src="./assets/Screenshot (253).png">
 
 
 This is my second weather app but this is a mini weather app project created for practice, using HTML, CSS, and JavaScript 
@@ -24,7 +23,7 @@ This is my second weather app but this is a mini weather app project created for
 
 To get started with this weather app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YashMishra0101/Weather-App`
+1. Clone the repository: `git clone https://github.com/YashMishra0101/Mini-Weather-App`
 2. Navigate to the project directory: `cd weather-app`
 3. Open `index.html` in your web browser
 
