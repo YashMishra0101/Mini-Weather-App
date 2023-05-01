@@ -29,16 +29,18 @@ To get started with this weather app, follow these steps:
 
 ## API Usage
 
-This weather app uses the [OpenWeatherMap API](https://openweathermap.org/) to retrieve weather data. You will need to sign up for a free API key from OpenWeatherMap and replace the placeholder `API_KEY` in the JavaScript file with your actual API key.
+This weather app uses the OpenWeatherMap API to retrieve weather data. You will need to sign up for a free API key from OpenWeatherMap and replace the placeholder API_KEY in the JavaScript file with your actual API key. Alternatively, you can use my API link and key that are already included in the code.
 
 ## Contributing
 
 If you would like to contribute to this weather app project, please open an issue or submit a pull request. All contributions are welcome!
 
 
-## Contact
+## Contact 
 
-If you have any questions or suggestions, please feel free to contact me on LinkedIn 
-https://www.linkedin.com/in/yash-mishra-356280223
+If you have any questions or suggestions, please feel free to contact me on:
+
+- LinkedIn: https://www.linkedin.com/in/yash-mishra-356280223
+- Twitter: https://twitter.com/YashRKMishra1 
 
 
