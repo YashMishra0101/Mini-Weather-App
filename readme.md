@@ -1,6 +1,7 @@
 # Mini Weather App
-<img src="./assets/Screenshot (252).png">
-<img src="./assets/Screenshot (253).png">
+
+![Screenshot](./assets/Screenshot%20(252).png)
+![Screenshot](./assets/Screenshot%20(253).png)
 
 
 This is my second weather app but this is a mini weather app project created for practice, using HTML, CSS, and JavaScript 
